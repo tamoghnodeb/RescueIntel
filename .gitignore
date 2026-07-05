@@ -35,6 +35,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Backend (local dev only, API route in frontend/src/app/api/)
+backend/
+
 # OS/System
 .DS_Store
 Thumbs.db
