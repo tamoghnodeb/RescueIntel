@@ -17,6 +17,6 @@ class RequestParams(BaseModel):
     time_window: str
     acceleration_enabled: bool
 
-@app.post("/api/analyze")
+@app.post("/api/backend/analyze")
 def analyze(params: RequestParams):
     return data_processor.run_analysis(params.region_bounds, params.time_window, params.acceleration_enabled)
