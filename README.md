@@ -1,15 +1,15 @@
-# KSP CrimeIntel 🚨
+# KSP CrimeIntel 
 
 **AI-Driven Crime Analytics & Network Visualization Platform**
 
-**[🌍 Live Deployment / Web App](https://ksp-crimeintel-60079772927.development.catalystserverless.in/app/index.html)**
+**[ Live Deployment / Web App](https://ksp-crimeintel-60079772927.development.catalystserverless.in/app/index.html)**
 
 ---
 
-## 📖 Problem Statement
+##  Problem Statement
 Law enforcement agencies struggle to uncover hidden connections between suspects and crime hotspots due to fragmented, disconnected data. Current police systems fail to efficiently map suspect networks and visualize geographic crime trends in real-time.
 
-## 💡 About the Solution
+##  About the Solution
 **KSP CrimeIntel** is a comprehensive intelligence dashboard built to transform raw police records into actionable intelligence. 
 Most traditional police systems are flat databases. Our solution uses Graph Analytics to automatically connect the dots—visually linking suspects, gangs, and crime locations into an interactive web that reveals hidden syndicates instantly.
 
@@ -18,7 +18,7 @@ Most traditional police systems are flat databases. Our solution uses Graph Anal
 
 ---
 
-## ✨ Features
+##  Features
 * **Interactive Suspect Relationship Graph:** Automatically generates a visual network connecting suspects, co-accused individuals, and crime incidents.
 * **Geographic Hotspot Mapping:** Plots crime locations and police station jurisdictions on an interactive map.
 * **Temporal Crime Analytics:** Tracks monthly and yearly crime trends to identify seasonal spikes.
@@ -27,7 +27,7 @@ Most traditional police systems are flat databases. Our solution uses Graph Anal
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Cloud & Backend (Serverless)**
 * **Zoho Catalyst:** Serverless platform for Web Client Hosting and Advanced I/O API Functions.
@@ -42,14 +42,14 @@ Most traditional police systems are flat databases. Our solution uses Graph Anal
 
 **AI-Driven Crime Analytics & Network Visualization Platform**
 
-**[🌍 Live Deployment / Web App](https://ksp-crimeintel-60079772927.development.catalystserverless.in/app/index.html)**
+**[ Live Deployment / Web App](https://ksp-crimeintel-60079772927.development.catalystserverless.in/app/index.html)**
 
 ---
 
-## 📖 Problem Statement
+##  Problem Statement
 Law enforcement agencies struggle to uncover hidden connections between suspects and crime hotspots due to fragmented, disconnected data. Current police systems fail to efficiently map suspect networks and visualize geographic crime trends in real-time.
 
-## 💡 About the Solution
+##  About the Solution
 **KSP CrimeIntel** is a comprehensive intelligence dashboard built to transform raw police records into actionable intelligence. 
 Most traditional police systems are flat databases. Our solution uses Graph Analytics to automatically connect the dots—visually linking suspects, gangs, and crime locations into an interactive web that reveals hidden syndicates instantly.
 
@@ -58,7 +58,7 @@ Most traditional police systems are flat databases. Our solution uses Graph Anal
 
 ---
 
-## ✨ Features
+##  Features
 * **Interactive Suspect Relationship Graph:** Automatically generates a visual network connecting suspects, co-accused individuals, and crime incidents.
 * **Geographic Hotspot Mapping:** Plots crime locations and police station jurisdictions on an interactive map.
 * **Temporal Crime Analytics:** Tracks monthly and yearly crime trends to identify seasonal spikes.
@@ -67,7 +67,7 @@ Most traditional police systems are flat databases. Our solution uses Graph Anal
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Cloud & Backend (Serverless)**
 * **Zoho Catalyst:** Serverless platform for Web Client Hosting and Advanced I/O API Functions.
